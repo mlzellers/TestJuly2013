@@ -1,0 +1,7 @@
+body {color:white;font-family:garamond,serif;background:url("3ks6xsq.png");}
+nav {width:30%;min-width:200px;float:left;}
+nav li {display:block;}
+a {color:white;}
+section {width:30%;min-width:200px;float:left;}
+section img {display:inline;width:100%;}
+#part2 {display:block;}
